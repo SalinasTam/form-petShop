@@ -40,7 +40,7 @@ export function valida(input) {
     },
     numero: {
         valueMissing: "Este campo numero no puede estar vacio",
-        patternMismatch: "El formato requerido es XXXXXXXXXX 10 números", 
+        patternMismatch: "El formato requerido es 261-XXXXXXX 10 números", 
     },
     direccion: {
         valueMissing: "Este campo numero no puede estar vacio",
